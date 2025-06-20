@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ujjwal130308.github.io/freefire/sitemap.xml
